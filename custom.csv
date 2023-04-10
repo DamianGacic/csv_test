@@ -1,4 +1,4 @@
-Name,Engager,Disengager,Fighter,Ranger,SafeSlow,SafeCC,CondCC,Hardengage,Knockups,Jukes,Flashes,Targetjumps,TerrainCrosses,Dodgeables,Blockables,Tankiness,Dps,burst,ad,md,td,eos,vision,waveclear,heals,shields,splitpush
+Name,Engager,Disengager,Fighter,Ranger,SafeSlow,SafeCC,CondCC,Hardengage,Knockups,Jukes,Flashes,Targetjumps,TerrainCrosses,Dodgeables,Blockables,Tankiness,Dps,Burst,Ad,Md,Td,EOS,Vision,Waveclear,Heals,Shields,Splitpush
 Aatrox,3,3,8,0,0,0,0,2,4,2,0,4,5,2,5,6,5,6,10,0,0,4,3,5,5,0,6
 Ahri,4,5,3,7,0,0,0,1,0,10,8,0,7,5,3,4,6,1,8,1,6,3,4,2,0,5,nan
 Akali,6,6,4,1,0,3,0,0,7,4,10,5,4,0,5,5,8,1,9,0,9,6,6,0,0,6,nan
